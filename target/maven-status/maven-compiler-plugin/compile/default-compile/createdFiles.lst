@@ -1,0 +1,4 @@
+com\shortway\exampleplugin\command\GUI.class
+com\shortway\exampleplugin\ExamplePlugin.class
+com\shortway\exampleplugin\event\ClickMenu.class
+com\shortway\exampleplugin\event\CommandListener.class

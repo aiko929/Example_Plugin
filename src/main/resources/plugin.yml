@@ -1,0 +1,11 @@
+name: Example_Plugin
+version: ${project.version}
+main: com.shortway.exampleplugin.ExamplePlugin
+api-version: 1.13
+
+commands:
+  example:
+    description: This is where you can test our Example Plugin!
+
+  hunger:
+    description: /hunger <food-level>
